@@ -19,4 +19,4 @@ Discordサーバーで商品を管理・販売する自動販売機Bot
 - **`/help`**：コマンドのヘルプを表示します
 
 ## コンタクト
-https://t.me/wappastei
+https://discord.gg/5bKTcRS9vf
